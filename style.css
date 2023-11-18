@@ -1,0 +1,54 @@
+body {background-color:rgb(11, 19, 33);}
+p {color:white;}
+p {font-size:23px;}
+p {font--family:Sabon;}
+p {text-align:center;}
+header {background-color:rgb(36, 39, 74);}
+header {padding:50px;}
+h1 {color:white;}
+h1 {font-size:55.55555555px;}
+h1 {font-family:Sabon;}
+h1 {text-align:center;}
+h2 {font-family:Franklin Gothic;}
+h2 {font-size:38px;}
+h2 {color:white;}
+h2 {text-align:center;}
+h3 {font-family:Franklin Gothic;}
+h3 {font-size:25.5555px;}
+h3 {color:white;}
+h3 {text-align:center;}
+div{
+  margin-left:100px;
+  margin-right:100px;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+nav{
+  background-color:rgb(12, 24, 46);
+  padding:25.5555px;
+  color:white;
+  font-size:25.5555px;
+  font-family:Sabon;
+}
+a:link, a:visited{
+  color:white;
+  padding:20px;
+  font-family:Franklin Gothic;
+  text-decoration: none;
+}
+
+a:hover, a:active{
+  background-color:black;
+  text-decoration: none;
+}
+footer{
+  background-color:rgb(36, 39, 74);
+  color:white;
+  padding:35.555px;
+  font-size:35.555px;
+}
+.album{
+  background-color:rgb(17, 32, 59);
+  padding:20px;
+  font-size:20px;
+}
